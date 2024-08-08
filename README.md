@@ -57,11 +57,10 @@ Realizada a conversão, este é o aspecto do site:
 
 ### Estrutura de Pastas
 
-Composto por um arquivo .html, outro .css, .js e o README com a descrição de todo o processo de elaboração do projeto.
+Composto por um arquivo .html, outro .css, .js e o README com a descrição do projeto.
 
 
-INSERIR ---------------
-
+![image](https://github.com/user-attachments/assets/dab7570c-e95a-4626-89d9-dea6160a7f22)
 
 
 # TECNOLOGIAS UTILIZADAS
